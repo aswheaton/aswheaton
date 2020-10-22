@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings!
+
+I'm Alex Wheaton, an astrophysics student at the University of Edinburgh! I build open source Python tools for astronomical data processing in the [Astropy](https://www.astropy.org/) ecosystem. Right now I'm using data from the XSHOOTER instrument on the Very Large Telescope (VLT) to better understand the relationship between star formation and active galactic nuclei (AGN) in distant galaxies. I'm also interested in numerical simulation, computational linguistics, and procedural generation of natural phenomena. You'll find some of that stuff here, too.
 
 <!--
 **aswheaton/aswheaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

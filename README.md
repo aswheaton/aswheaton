@@ -1,7 +1,9 @@
 ### Greetings!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswheaton&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Wheaton's github stats](https://github-readme-stats.vercel.app/api?username=aswheaton&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs and GitHub stats](
+https://github-readme-stats.vercel.app/api/top-langs/?username=aswheaton&layout=compact&theme=dark
+https://github-readme-stats.vercel.app/api?username=aswheaton&theme=dark&hide=stars
+)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm Alex Wheaton, an astrophysics student at the University of Edinburgh! I build open source Python tools for astronomical data processing in the [Astropy](https://www.astropy.org/) ecosystem. Right now I'm using data from the XSHOOTER instrument on the Very Large Telescope (VLT) to better understand the relationship between star formation and active galactic nuclei (AGN) in distant galaxies. I'm also interested in numerical simulation, computational linguistics, and procedural generation of natural phenomena. You'll find some of that stuff here, too.
 
